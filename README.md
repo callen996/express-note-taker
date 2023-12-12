@@ -15,9 +15,7 @@
 ## Table of Contents
   * [Description](#description)
   * [Visuals](#visuals)
-  * [License](#license)
-  * [Contributing](#contribution)
-  * [Questions](#contact-information)
+
 
 ---
 
@@ -65,22 +63,3 @@ An application that can be used to write, save, and delete notes using Node and 
 
 ---
 
-## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  * For more information on license types, please reference this website
-  for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
-
----
-
-## Contributing
-
-Not accepting contributions at this time
-
----
-
-## Contact Information
-  * GitHub Username: [jfisher396](https://github.com/jfisher396)
-  * GitHub Email: james@james-fisher-web-developer.com
-  * <p>
-    <a href="https://www.linkedin.com/in/jamesfisher-webdev/"><img alt="Linkedin: James Fisher" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-    </p>
